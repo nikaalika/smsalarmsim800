@@ -1,7 +1,7 @@
 # sms alarm sim800 and arduino
 
 On the attached images you can find schematic how I have chosen to build circuit 
-During building procces it is very importent to consider is that
+During building procces you should consider folowing
 
 1) Sim 800 l supply voltage should be between 3.7V to 4.1V 
 2) Use voltage divider or level shifter to lower the serial comunication voltage(you will burn it's just matter of time)
