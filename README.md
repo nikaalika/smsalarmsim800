@@ -3,7 +3,7 @@
 On the attached images you can find schematic how I have chosen to build circuit 
 During building procces it is very importent to consider is that
 
-1) Sim 800 l or c supply voltage should be between 3.7 to 4.1 
+1) Sim 800 l supply voltage should be between 3.7V to 4.1V 
 2) Use voltage divider or level shifter to lower the serial comunication voltage(you will burn it's just matter of time)
 3) Have common ground between arduino and sim 800 
 4) Use pull down resistor for digital input
