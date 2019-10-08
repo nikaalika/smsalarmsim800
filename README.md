@@ -9,6 +9,6 @@ During building procces it is very importent to consider is that
 4) Use pull down resistor for digital input
 
 ![image](https://user-images.githubusercontent.com/53902741/66381947-567a4f80-e9cb-11e9-8b06-5e1cf1534a72.png)
-
+This is how it came out
 ![image](https://user-images.githubusercontent.com/53902741/66390837-9433a400-e9dc-11e9-97e1-67ea64a98180.png)
 
